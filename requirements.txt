@@ -1,0 +1,6 @@
+pymongo 
+langchain 
+langchainhub 
+langchain-groq
+python-dotenv
+streamlit
